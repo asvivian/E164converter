@@ -16,6 +16,8 @@ A. GOAL (as requested by Kimberly Cordero of Josh DeShong Real Estate)
 
 B. SOLUTION
 
+[NOTE: An executable of the solution can be found in the "dist/Debug/Cygwin-Windows" folder named "joshdeshong.exe"]
+
 There are two functions which ultimately accomplish the goal with documentation
 given in great detail within the main.cpp file. Here are the function 
 descriptions as they appear in the code:
